@@ -1,0 +1,11 @@
+body {
+  background-color: lightblue;
+}
+
+.login_form {
+    width: 400px;
+    padding: 15px;
+    margin: 0 auto;
+
+}
+

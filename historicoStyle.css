@@ -1,0 +1,39 @@
+div.container{
+	width: 100%;
+	/*display: block;*/
+	
+	text-align: center;
+}
+
+.content{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.form-center 
+{
+	width:300px;
+	margin: 0 auto;
+	text-align:center;
+}
+.dropdown-elementos	
+{
+	text-align: center;
+}
+
+@media only screen and (max-width: 900px)
+{
+	.content 
+	{
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+	}
+	
+	.container
+	{
+		width: 100%;
+		text-align: center;
+	}
+}

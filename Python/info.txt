@@ -1,0 +1,5 @@
+Testar:
+
+webcam.py
+door.py
+sirene.py

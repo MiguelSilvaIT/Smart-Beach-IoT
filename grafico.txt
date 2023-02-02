@@ -1,0 +1,6 @@
+Criar uma array com as datas disponiveis;
+Select box com as datas obtidas;
+
+Percorrer o ficheiro log à procura dessas datas e armazenar os valores das mesmas numa array;
+
+Percorrer os valores no gráfico;
